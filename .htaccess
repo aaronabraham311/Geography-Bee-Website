@@ -1,5 +1,0 @@
-AuthName "Please enter the username and password:"
-AuthType Basic
-AuthUserFile Geography-Bee-Website/.htpasswd
-AuthGroupFile /dev/null 
-require valid-user
